@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/truongtheluc1998/linwedding.git/static/css/main.d781a375.chunk.css",
+    "main.js": "/truongtheluc1998/linwedding.git/static/js/main.6bc90910.chunk.js",
+    "main.js.map": "/truongtheluc1998/linwedding.git/static/js/main.6bc90910.chunk.js.map",
+    "runtime-main.js": "/truongtheluc1998/linwedding.git/static/js/runtime-main.f118e35a.js",
+    "runtime-main.js.map": "/truongtheluc1998/linwedding.git/static/js/runtime-main.f118e35a.js.map",
+    "static/js/2.3be50979.chunk.js": "/truongtheluc1998/linwedding.git/static/js/2.3be50979.chunk.js",
+    "static/js/2.3be50979.chunk.js.map": "/truongtheluc1998/linwedding.git/static/js/2.3be50979.chunk.js.map",
+    "index.html": "/truongtheluc1998/linwedding.git/index.html",
+    "static/css/main.d781a375.chunk.css.map": "/truongtheluc1998/linwedding.git/static/css/main.d781a375.chunk.css.map",
+    "static/js/2.3be50979.chunk.js.LICENSE.txt": "/truongtheluc1998/linwedding.git/static/js/2.3be50979.chunk.js.LICENSE.txt",
+    "static/media/2.c2f6c1c5.jpg": "/truongtheluc1998/linwedding.git/static/media/2.c2f6c1c5.jpg",
+    "static/media/dalat.52412038.jpeg": "/truongtheluc1998/linwedding.git/static/media/dalat.52412038.jpeg",
+    "static/media/hue.ed48d0e8.jpeg": "/truongtheluc1998/linwedding.git/static/media/hue.ed48d0e8.jpeg",
+    "static/media/phim1.81f51a0e.jpeg": "/truongtheluc1998/linwedding.git/static/media/phim1.81f51a0e.jpeg",
+    "static/media/phim2.b4151bd7.jpeg": "/truongtheluc1998/linwedding.git/static/media/phim2.b4151bd7.jpeg",
+    "static/media/shop.jpeg": "/truongtheluc1998/linwedding.git/static/media/shop.a135a1d2.jpeg",
+    "static/media/vaycuoi.863cef74.jpg": "/truongtheluc1998/linwedding.git/static/media/vaycuoi.863cef74.jpg",
+    "static/media/vaycuoi1.b5fa2e88.jpg": "/truongtheluc1998/linwedding.git/static/media/vaycuoi1.b5fa2e88.jpg",
+    "static/media/vaynhe.421a6bfa.jpg": "/truongtheluc1998/linwedding.git/static/media/vaynhe.421a6bfa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f118e35a.js",
+    "static/js/2.3be50979.chunk.js",
+    "static/css/main.d781a375.chunk.css",
+    "static/js/main.6bc90910.chunk.js"
+  ]
+}
